@@ -1,0 +1,6 @@
+{
+  "name": "GoCgoCodeEngine - Local AI Coding Architect",
+  "description": "Sistema local de IA para programación de élite con backend de alta velocidad en Go y CGo (C/C++ GGML), WebSocket streaming, telemetría de rendimiento y suite de auditoría de código.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
